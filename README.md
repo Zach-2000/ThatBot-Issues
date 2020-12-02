@@ -5,6 +5,7 @@ A place to post Issues and Suggestions regarding the That Bot discord bot for Th
 - Keep it constructive.
 - Make it detailed.
 - Answer all questions listed.
+- Do not ask for '^say' perms.
 - Do not spam submissions.
 
 *Once you have read the above guidelines, click* **[HERE](https://github.com/Zach-2000/ThatBot-Issues/issues/new/choose)** *to create your submission.*
