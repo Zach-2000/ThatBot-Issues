@@ -15,7 +15,7 @@ A clear and concise description of what the bug is.
 List all steps required to reproduce the behavior.
 
 
-**Expected behavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
 
