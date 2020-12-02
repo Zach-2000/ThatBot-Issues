@@ -9,4 +9,4 @@ A place to post Issues and Suggestions regarding the That Bot discord bot for Th
 
 *Once you have read the above guidelines, click* **[HERE](https://github.com/Zach-2000/ThatBot-Issues/issues/new/choose)** *to create your submission.*
 
-*You can also simply view submissions by other users* **[HERE](https://github.com/Zach-2000/ThatBot-Issues)***.*
+*You can also simply view submissions by other users* **[HERE](https://github.com/Zach-2000/ThatBot-Issues/issues)***.*
