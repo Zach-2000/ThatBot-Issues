@@ -1,2 +1,3 @@
 # Ignore All
-*
+*.md
+*.gitignore
