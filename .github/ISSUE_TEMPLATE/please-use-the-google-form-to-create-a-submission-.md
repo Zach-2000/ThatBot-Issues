@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 Please do not submit this, and instead, use the Google Form found in #bot-suggestions.
-If submitted, this will be marked as invalid immediately and will be ignored..
+If submitted, this will be marked as invalid immediately and will be ignored.
